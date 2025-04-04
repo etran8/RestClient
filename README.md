@@ -201,4 +201,3 @@ Transactions for the Account ID:  26
 [{'id': 97, 'transaction_type': 'c', 'transaction_amount': 100.0, 'initiated_date': '2024-04-04', 'posted_date': '2024-04-04', 'status': 'C', 'account': 26}, {'id': 98, 'transaction_type': 'D', 'transaction_amount': 200.0, 'initiated_date': '2024-04-04', 'posted_date': '2024-04-04', 'status': 'p', 'account': 26}, {'id': 99, 'transaction_type': 'C', 'transaction_amount': 600.0, 'initiated_date': '2024-04-04', 'posted_date': '2024-04-04', 'status': 'C', 'account': 26}, {'id': 100, 'transaction_type': 'D', 'transaction_amount': 300.0, 'initiated_date': '2025-03-25', 'posted_date': '2025-03-25', 'status': 'C', 'account': 26}]
 
 Process finished with exit code 0
-![image](https://github.com/user-attachments/assets/ce481889-7cf2-4a3d-87ad-0f1594db0df1)
