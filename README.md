@@ -6,10 +6,15 @@ This application creates RESTFul APIs using the same model objects indicated in 
 This application also includes a REST client to test REST Service end points.
 
 To run or test this application, do the following: 
+
 	1. Load both the CustAcctMgmtProject project that includes the RESTFul Web Service and the RestClient project to PyCharm. 
+ 
 	2. In PyCharm's Terminal, type "python manage.py runserver" at the root of the CustAcctMgmtProject project. If the code is compiled without any errors then you should see this URL http://127.0.0.1:8000/home
+ 
 	3. Now Right click on the RestClient.py and select "Run RestClient".
+ 
 	4. The output below will show that each of the RestFul Web Service APIs are successfully executed and the output for each API is displayed.
+ 
 	
 This creates a Customer.  
 This is customer JSON:  {
